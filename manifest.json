@@ -1,0 +1,25 @@
+{
+  "name": "NANPURE WRLD",
+  "short_name": "NANPURE WRLD",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#060c20",
+  "theme_color": "#060c20",
+  "description": "NANPURE WRLD — A Sudoku Journey.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "brand-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/assets/brand/nanpure-wrld.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
