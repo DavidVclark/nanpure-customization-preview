@@ -1,0 +1,7 @@
+{
+  "repository": "DavidVclark/sudoku-game",
+  "commit": "f44628ffce5b5eeac8f50ef5c8517787221f260b",
+  "entry": "lib/emerald_studio.dart",
+  "scope": "Experimental studio only; no save or audio initialization; no equipped Jade finish",
+  "mainSha256": "cba7cd7ca121c9c4c139cb2ef623dd5cc7c29722780dd675b1f8d21d9c321354"
+}
